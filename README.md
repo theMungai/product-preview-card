@@ -1,1 +1,1 @@
-# product-review-card
+# product-preview-card
